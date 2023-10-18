@@ -14,6 +14,7 @@
     "deploy": "gh-pages -d dist -r https://github.com/690858187/vvv.git -b gh-pages"
   },
   "dependencies": {
+    "gh-pages": "^6.0.0",
     "pinia": "^2.1.6",
     "vue": "^3.3.4",
     "vue-router": "^4.2.4"
